@@ -1,0 +1,23 @@
+# Appium
+/Android_Pixel4API30/
+/Android_Pixel4API30/Server.log
+/Android_Pixel4API30/Videos/
+/target_TestNG/Pixel4API30/
+target_TestNG/
+
+# Extent
+Reports/
+
+# IntelliJ
+*.iml
+.idea/
+
+# Maven
+target/
+
+# Allure
+.allure
+allure-results
+/Android_PixelAPI27/
+/failedtests.txt
+/Android_Pixel/
